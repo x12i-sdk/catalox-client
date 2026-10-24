@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/catalox-client",
+  "packageVersion": "6.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/catalox-client",
+  "usageRepository": "https://github.com/x12i-sdk/catalox-client",
+  "sourceRepository": "https://github.com/x12i/catalox",
+  "sourceCommit": "38c5ff583f1d77dfbbd884935a858236c20f5ea7",
+  "sourcePackageDirectory": "packages/http/client",
+  "example": {
+    "title": "Read application catalogs with a token-bound HTTP client fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:51:43.348588+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "6cdc0a7e9f57b2d3c25565d7a0d64086c969682ef61233a96c5c4c64d25bb347",
+    "manifestSha256": "007da5f3afc1fd6813c683bc6e2a98880422eb4afed910bae05e6c108e8803e5"
+  }
+}
